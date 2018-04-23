@@ -3,7 +3,12 @@ body{
  
     background-image: url("img/background.gif");
     background-size: cover;
-   	
+   		
+
+  	margin: 0;
+  	padding-top: 20%;
+
+
 
 }
 
@@ -36,6 +41,12 @@ nav{
    	padding: 10px;
    	max-height: 40vw;
 	width: auto;
+
+	top: 0;
+  	z-index: 100;
+
+  	position: fixed;
+
    
 
 
@@ -60,6 +71,15 @@ nav button {
 }
 
 
+
+.navbar-fixed {
+  top: 0;
+  z-index: 100;
+  position: fixed;
+  width: 100%;
+}
+
+
 .about {
 
 	color: white;
@@ -68,6 +88,20 @@ nav button {
 }
 
 .skills {
+	font-size:3vw;
+	color: white;
+	padding: 10px;
+}
+
+
+.projects {
+
+	color: white;
+	padding: 10px;
+	font-size:3vw
+}
+
+.contact {
 	font-size:3vw;
 	color: white;
 	padding: 10px;
