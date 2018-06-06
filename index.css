@@ -3,12 +3,8 @@ body{
  
     background-image: url("img/background.gif");
     background-size: cover;
-   		
-
   	margin: 0;
   	padding-top: 20%;
-
-
 
 }
 
@@ -19,7 +15,6 @@ header{
 	text-align: center;
 	color: white;
 	font-size:5vw;
-
 	max-height: 60vw;
 	width: auto;
 }
@@ -29,7 +24,7 @@ header{
 
 img{
 
-	height: 30vw;
+	height: 40vw;
 	width: auto;
 }
 
