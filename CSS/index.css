@@ -115,5 +115,22 @@ body{
 
 	display: block;
     margin-left: auto;
-    margin-right: auto }
+    margin-right: auto ;
+}
+
+#projects h1{
+
+	color: white;
+}
+
+
+.download{
+	display: inline-block;
+	background-color: grey;
+	height: 50px;
+	
+}
+
+.download a{
+	margin-bottom: 100px;
 }
