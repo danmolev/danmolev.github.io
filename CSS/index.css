@@ -38,6 +38,9 @@
 
 
 
+
+
+
 /* Add a black background color to the top navigation */
 .topbar {
   opacity: 0.8;
@@ -152,7 +155,21 @@ body{
 
 
 
-#proj p{
 
-	color: white;
+
+
+
+p{
+	color: #00FF41;
+	font-family:'Courier New';
 }
+
+
+
+
+h1{
+
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
